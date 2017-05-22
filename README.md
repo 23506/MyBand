@@ -23,7 +23,7 @@ De website is enigszins te vergelijken met (..concurrentie1..) of (..concurrenti
 
    [readme.md]: <https://github.com/JouwGithubNaam/myband/blob/master/readme.md>
    [Leidraad_uitgangspunt.md]: <https://github.com/HjalmarSnoep/MyBandStarter/blob/master/doc/1/uitgangspunt.md>
-   [Debriefing]: <https://docs.google.com/document/u/0/>
+   [Debriefing]: <https://docs.google.com/document/d/1PGZeqnnb7Sg7QBpW2On45p-hpsrxPiHC0YVCgTd3jS0/edit#heading=h.gjdgxs>
    [doc/1/PvA.rtf]: <https://github.com/HjalmarSnoep/MyBandStarter/blob/master/doc/1/PvA.rtf>
    [doc/1/urenschatting.md]: <https://github.com/HjalmarSnoep/MyBandStarter/blob/master/doc/1/Urenschatting.md>
    [doc/1/planning.md]: <https://github.com/HjalmarSnoep/MyBandStarter/blob/master/doc/1/planning.md>
