@@ -24,61 +24,61 @@ Ga je naar de planning, dan heb je hier veel aan.
 | Onderdeel        | Aantal           |  Uren           |
 | ------------- |-------------:|-------------:| 
 | schrijven debriefing           |1x       | 1 | 
-| Analyse concurrentie           |2x       |   | 
-| Verzinnen U.S.P.               | 2x      |   |
-| Technisch onderzoek            |?x       | 1 | 
-| Ureninschatting                | 1x      | 1 | 
-| Planning                       |         |   |
-| Moodboard                      |      1x |   |
-| Flowchart                      |      1x |   |
-| Wireframes voor ieder template |      4x |   |
-| Interaction schetsen           |         |   |
-| Testing paper prototyping      |         |   |
-| Bepalen menustructuur          |         |   |
-| Functioneel ontwerp            |      1x |   |
-| Mockups (ID v adobe)           |      1x |   |
-| Prototype                      |      1x |   |
+| Analyse concurrentie           |         | 2 | 
+| Verzinnen U.S.P.               |         | 1 |
+| Technisch onderzoek            |         | 1 | 
+| Ureninschatting                |         | 1 | 
+| Planning                       |         | 2 |
+| Moodboard                      |      1x | 1 |
+| Flowchart                      |      1x | 2 |
+| Wireframes voor ieder template |      4x | 1 |
+| Interaction schetsen           |         | 1 |
+| Testing paper prototyping      |         | 2  |
+| Bepalen menustructuur          |         | 1  |
+| Functioneel ontwerp            |      1x | 3  |
+| Mockups (ID v adobe)           |      1x | 1 |
+| Prototype                      |      1x | 1  |
 
 ##### Aspect 2
 | Onderdeel        | Aantal           |  Uren           |
 | ------------- |-------------:|-------------:| 
-| maken E.R.D.                               |       |   |
-| opzetten DATABASE.                         |       |   |
-| Basic CRUD                                 |       |   |
-| installeren benodigde software             |       |   |
-| zoeken modules en libraries                |       |   |
-| opzetten en documenteren ontwikkelomgeving |       |   |
-| Navigatie                                  |       |   |
-| opzetten M.V.C. basis routing              |       |   |
-| opzetten basis logs via controller         |       |   |
-| Vullen database met mockup-data            |       |   | 
-| Maken templates in HTML                    |   4x  |   | 
-| Opzetten Sass                              |       |   | 
-| ontwerpen page templates in HTML/CSS       |   4x  |   | 
-| View per Template in Smarty /PHP           |   4x  |   | 
-| RSSView per Template in Smarty /PHP        |   4x  |   | 
-| Opzetten pagina's                          |       |   | 
-| invullen templates                         |   4x  |   | 
-| Search Form                                |    1x |   | 
-| Search Suggestions                         |       |   | 
-| Search Results                             |       |   | 
-| AgendaModel                                |       |   | 
-| AgendaView                                 |       |   | 
-| Admin inlog                                |       |   | 
-| Admin tools voor statistieken              |       |   | 
+| maken E.R.D.                               |       |  1 |
+| opzetten DATABASE.                         |       |   1|
+| Basic CRUD                                 |       |   1|
+| installeren benodigde software             |       |   1|
+| zoeken modules en libraries                |       |   1|
+| opzetten en documenteren ontwikkelomgeving |       |   1|
+| Navigatie                                  |       |   1|
+| opzetten M.V.C. basis routing              |       |   1|
+| opzetten basis logs via controller         |       |   2|
+| Vullen database met mockup-data            |       |   1| 
+| Maken templates in HTML                    |   4x  |   1| 
+| Opzetten Sass                              |       |   1| 
+| ontwerpen page templates in HTML/CSS       |   4x  |   1| 
+| View per Template in Smarty /PHP           |   4x  |   1| 
+| RSSView per Template in Smarty /PHP        |   4x  |   1| 
+| Opzetten pagina's                          |       |   1| 
+| invullen templates                         |   4x  |   1| 
+| Search Form                                |    1x |   1| 
+| Search Suggestions                         |       |   1| 
+| Search Results                             |       |   1| 
+| AgendaModel                                |       |   1| 
+| AgendaView                                 |       |   1| 
+| Admin inlog                                |       |   1| 
+| Admin tools voor statistieken              |       |   1| 
 
 ##### Aspect 3
 | Onderdeel        | Aantal           |  Uren           |
 | ------------- |-------------:|-------------:| 
-| (soft) live zetten en testen   |       |   |
-| testen SEO                     |       |   |
-| schrijven test rapport         |       |   |
-| Optimalisatie plan             |       |   |
-| Controleren statistieken       |       |   |
-| aanpassen / bugs               |       |   |
-| live zettenn                   |       |   |
-| Verzamelen nieuwe statistieken |       |   |
-| Aanpassen Optimalisatie plan   |       |   |
-| Bonus punten                   |       |   |
-| Evaluatie                      |       |   |
-| Presentatie                    |       |   |
+| (soft) live zetten en testen   |       |   0.5|
+| testen SEO                     |       |   1|
+| schrijven test rapport         |       |   1|
+| Optimalisatie plan             |       |   1|
+| Controleren statistieken       |       |   1|
+| aanpassen / bugs               |       |   1|
+| live zettenn                   |       |   1|
+| Verzamelen nieuwe statistieken |       |   1|
+| Aanpassen Optimalisatie plan   |       |   1|
+| Bonus punten                   |       |   1|
+| Evaluatie                      |       |   1|
+| Presentatie                    |       |   1|
